@@ -1,0 +1,32 @@
+{
+  "name": "Noobingin talep sistemi",
+  "version": "1.0.0",
+  "description": "Talep Sistemi",
+  "main": "startalep.js",
+  "scripts": {
+    "start": "node startalep.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "0.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.1",
+    "quick.db": "^7.1.3",
+    "wio.db": "^4.0.21",
+    "ws": "^7.5.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/star-talep"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
